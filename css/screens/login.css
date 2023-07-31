@@ -1,9 +1,14 @@
 .welcom-header {
   display: flex;
   margin: 90px 0px;
+  margin-top: 90px;
   text-align: center;
   flex-direction: column;
   align-items: center;
+}
+
+.login-status {
+  top: 0;
 }
 
 .welcom-header__title {
